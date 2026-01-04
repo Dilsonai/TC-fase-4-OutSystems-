@@ -26,7 +26,7 @@ Perfil Cliente (Alun@): Acesso restrito à leitura dos textos. A navegação per
 
 Perfil Administrad@r (Profess@r): Mediante validação de senha (credencial '1234'), o sistema habilita o link de edição para posts existentes e o ícone de criação (+) para novos conteúdos.
 
-
+ A navegação inicia na tela Home onde o usuário escolhe seu perfil Administrad@r (profess@r) ou Cliente(alun@) , dessa para a tela Posts onde permite a visualização da lista de textos, depois o sistema já guardando o perfil oferece a escolhe de leitura de texto em especifico clicando no título ou no conteúdo e no caso do docente pode clicar no resumo para editar ou no ícone + para criar novo post. 
 
 
 
